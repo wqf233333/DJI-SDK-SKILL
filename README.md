@@ -1,2 +1,3 @@
-# DJI-SDK-Pan
-FAQ for Onboard SDK , Guidance SDK, Manifold
+# DJI-SDK-SKILL
+FAQ for Onboard SDK , Guidance SDK and Manifold.SDK Known issue list.
+

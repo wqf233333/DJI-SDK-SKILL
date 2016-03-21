@@ -4,6 +4,8 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 
 这是一个记录Onboard SDK讨论qq群（469284875）中关于DJI-SDK以及DJI相关产品的讨论内容的文档。
 
+Please follow the [guideline](https://github.com/wqf233333/DJI-SDK-SKILL/wiki/Format-Guideline) if you want to contribute
+
 ###ROS
 
 - What is ROS and how to work with it?

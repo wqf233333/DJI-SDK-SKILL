@@ -37,19 +37,19 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - I can read nothing from the serial port
 
   check: enabled the API, same baudrate in Assistant/your program, if your USB-uart module works well
-  
+
 - What is encrypt error?
 
   it means you are trying to sending encode data while activation is forgotten or failed
-  
+
 - Could you add a feature to ... in the sample code?
 
   sample code is just a sample, you need to program by yourself
-  
+
 - How could I implement a function in order to ... ?
 
   Google/StackOverflow
-  
+
 - Why I code a function to ... but it didn't work?
 
   Google/StackOverflow
@@ -65,7 +65,7 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - Where can I find resources of Manifold?
 
   http://forum.dev.dji.com/thread-32204-1-1.html http://forum.dev.dji.com/thread-32205-1-1.html http://forum.dev.dji.com/thread-32206-1-1.html http://forum.dev.dji.com/thread-32207-1-1.html
-  
+
 - What is the serial device name?
 
   /dev/ttyTHS1

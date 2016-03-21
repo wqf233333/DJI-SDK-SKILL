@@ -16,7 +16,8 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
   
 - I compiled but cannot find pkg when roslaunch or rosrun
 
-  usually it means you forget `source devel/setup.bash`
+  usually it means you forget `source devel/setup.bash` you can config your ROS environment follow this tutorials:
+  http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
 
 ###Zenmuse X3
@@ -56,6 +57,8 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
   Google/StackOverflow
 
 ###Gudiance SDK
+-Can I use Guidance for SLAM?
+ Yes.
 
 ###Manifold
 
@@ -66,7 +69,8 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - What is the serial device name?
 
   /dev/ttyTHS1
-  
+- Where can I get the  image file of Manifold?
+   https://dl.djicdn.com/downloads/manifold/manifold_image_v1.0.tar.gz
 
 ###Mobile SDK
 

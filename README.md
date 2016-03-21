@@ -13,7 +13,7 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - How could I compile and run the pkg?
 
   http://wiki.ros.org/catkin/Tutorials
-  
+
 - I compiled but cannot find pkg when roslaunch or rosrun
 
   usually it means you forget `source devel/setup.bash`
@@ -23,7 +23,7 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - Can X3 installed upside down?
 
   Contact @lanyusea if you have this kind of purpose, there is a special firmware for it.
-  
+
 - How could I read the video buffer from X3 if I have no manifold
 
   Sorry I cannot tell you.

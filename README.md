@@ -22,9 +22,9 @@ Please follow the [guideline](https://github.com/wqf233333/DJI-SDK-SKILL/wiki/Fo
 
 ###Zenmuse X3
 
-- How to accquire video stream of X3 with Onboard-SDK-ROS)[https://github.com/dji-sdk/Onboard-SDK-ROS/]?
+- How to accquire video stream of X3 with [Onboard-SDK-ROS](https://github.com/dji-sdk/Onboard-SDK-ROS/)?
 
-  Follow (this)[http://jiamingsuen.github.io/2016/apriltag-detection-with-dji-manifold-and-x3-video-stream-part-i/] step-by-step guide.
+  Follow [this](http://jiamingsuen.github.io/2016/apriltag-detection-with-dji-manifold-and-x3-video-stream-part-i/) step-by-step guide.
 
 - Can X3 installed upside down?
 

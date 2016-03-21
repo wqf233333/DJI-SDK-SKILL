@@ -57,8 +57,10 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
   Google/StackOverflow
 
 ###Gudiance SDK
--Can I use Guidance for SLAM?
- Yes.
+
+- Can I use Guidance for SLAM?
+
+  Yes.
 
 ###Manifold
 
@@ -69,8 +71,10 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 - What is the serial device name?
 
   /dev/ttyTHS1
+
 - Where can I get the  image file of Manifold?
-   https://dl.djicdn.com/downloads/manifold/manifold_image_v1.0.tar.gz
+
+  https://dl.djicdn.com/downloads/manifold/manifold_image_v1.0.tar.gz
 
 ###Mobile SDK
 
@@ -78,6 +82,6 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 
 ###Others
 
-- You guys are awasome!
+- You guys are awesome!
 
   Thank you!

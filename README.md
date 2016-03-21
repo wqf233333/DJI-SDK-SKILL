@@ -16,9 +16,7 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
   
 - I compiled but cannot find pkg when roslaunch or rosrun
 
-  usually it means you forget `source devel/setup.bash` you can config your ROS environment follow this tutorials:
-  http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
-
+  usually it means you forget `source devel/setup.bash`
 
 ###Zenmuse X3
 

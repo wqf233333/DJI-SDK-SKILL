@@ -6,6 +6,10 @@ FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questi
 
 Please follow the [guideline](https://github.com/wqf233333/DJI-SDK-SKILL/wiki/Format-Guideline) if you want to contribute
 
+We also provide a [dynamic search tool](http://dji-brainhole.github.io/hippophae/index.html) of this issue list, all issues are synchonized from this readme file.
+
+For new issues please submit them in Github Issue of this repository.
+
 ###ROS
 
 - What is ROS and how to work with it?

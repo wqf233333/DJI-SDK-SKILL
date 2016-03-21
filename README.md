@@ -1,11 +1,10 @@
-# DJI-SDK-SKILL
+# DJI-SDK-S(DK)K(nown)I(ssue)L(ist)L(ibrary)
 
-FAQ for Onboard SDK , Guidance SDK and Manifold SDK Known Issue List Library.
+FAQ of Onboard SDK , Guidance SDK and Manifold. Collected from Developers questions.
 
 这是一个记录Onboard SDK讨论qq群（469284875）中关于DJI-SDK以及DJI相关产品的讨论内容的文档。
 
 ###ROS
----
 
 - What is ROS and how to work with it?
 
@@ -42,9 +41,9 @@ FAQ for Onboard SDK , Guidance SDK and Manifold SDK Known Issue List Library.
   
 - What is encrypt error?
 
-  it means you are trying to sending encode while activation is forgotten or failed
+  it means you are trying to sending encode data while activation is forgotten or failed
   
-- Could you add a feature function of ... in the sample code?
+- Could you add a feature to ... in the sample code?
 
   sample code is just a sample, you need to program by yourself
   

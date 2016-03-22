@@ -33,6 +33,10 @@ For new issues please submit them in Github Issue of this repository.
 - How could I read the video buffer from X3 if I have no manifold
 
   Sorry I cannot tell you.
+  
+- How can I get the video of X3 for image processing?
+
+  There are two ways to achive it: 1.using Manifold as onboard processor 2.using HDMI output of RC remote controller
 
 ###Onboard SDK
 

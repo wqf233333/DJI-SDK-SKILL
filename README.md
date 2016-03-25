@@ -50,7 +50,15 @@ For new issues please submit them in Github Issue of this repository.
 
 - What is encrypt error?
 
-  it means you are trying to sending encode data while activation is forgotten or failed
+  it means you are trying to sending encode data while activation is forgotten or failed.
+
+- What is the default taking-off altitude and how to modify it?
+
+  the drone will exit the taking off logic after reaching 1.2m and it is a fixed height which cannot be modified
+
+- How to read the C1/C2 value of RC in Onboard SDK?
+
+  no you cannot, the only channel values can be read from broadcast are roll/pitch/yaw/throttle/gear/mode
 
 - Could you add a feature to ... in the sample code?
 

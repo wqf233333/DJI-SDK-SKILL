@@ -71,6 +71,18 @@ For new issues please submit them in Github Issue of this repository.
 - Why I code a function to ... but it didn't work?
 
   Google/StackOverflow
+  
+- What is the meaning of parameter in Onboard-SDK-ROS/dji_sdk_demo/src/client.cpp/drone->attitude_control(0x40, 0, 0, 0, 0)? 
+   
+
+
+- How to understand the "HORI_POS" in Appendix.md?
+
+
+
+- When I run the demo in Onboard-SDK-ROS/dji_sdk_web_groundstation/,I click the "Start-Planning",it warns "home location not Recorded",any idea on how to resolve this problem?
+
+
 
 ###Gudiance SDK
 

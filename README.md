@@ -38,6 +38,10 @@ For new issues please submit them in Github Issue of this repository.
 
   There are two ways to achive it: 1.using Manifold as onboard processor 2.using HDMI output of RC remote controller
 
+- Why I could not get video from X3 with manifold?
+
+  You should either enter the camera view or do not run DJI GO at first in order to get the video stream.If it still does not work,please upgrade the firmware of X3.
+
 ###Onboard SDK
 
 - Why I cannot activate, why it failed open port.

@@ -44,6 +44,10 @@ For new issues please submit them in Github Issue of this repository.
 
 ###Onboard SDK
 
+- Do I need to activate if I just want to read broadcast data from the drone?
+
+  no. the broadcast data will be out once enable API box is clicked, developers don't need to send any commands before.
+
 - Why I cannot activate, why it failed open port.
 
   did you set a proper authority for the serial port?
@@ -55,6 +59,10 @@ For new issues please submit them in Github Issue of this repository.
 - What is encrypt error?
 
   it means you are trying to sending encode data while activation is forgotten or failed.
+
+- Can I control directly the drone after activation?
+
+  no. control commands are limited by its corresponding contrl ability. for example, vrc needs to enable vrc control, attitude control needs to enable attitude control
 
 - What is the default taking-off altitude and how to modify it?
 

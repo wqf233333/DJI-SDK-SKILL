@@ -93,7 +93,7 @@ For new issues please submit them in Github Issue of this repository.
 - Which .so should be chosed for Manfiold?
 
   You should chose the .so file in xu3 folder.
- 
+
 
 ###Manifold
 
